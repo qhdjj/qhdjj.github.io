@@ -1,2 +1,49 @@
 /* Here is your custom css styles. */
+body{
+    background-color: rgb(185, 86, 255);
+    height: 100%;
+}
+.text1{
+    position: absolute;
+    color: white;
+    left: 50%;
+    font-size: 30px;
+    transform: translate(-50%);
+}
+.text1 img{
+    position: absolute;
+    height: 700px;
+    width: 550px;
+}
+#num1{
+    position: absolute;
+    color: white;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%);
+    font-size: 25px;
+}
+img{
+    top: 80%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%);
+    cursor: pointer;
+}
+#num2{
+    position: absolute;
+    color: white;
+    font-size: 15px;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%);
+}
+#num3{
+    position: absolute;
+    color: white;
+    font-size: 15px;
+    top: 65%;
+    left: 50%;
+    transform: translate(-50%);
+} 
 
